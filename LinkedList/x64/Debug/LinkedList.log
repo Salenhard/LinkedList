@@ -1,0 +1,10 @@
+﻿  LinkedList.cpp
+  List.cpp
+  Node.cpp
+  Лаба 12.cpp
+C:\Users\User\source\repos\LinkedList\LinkedList\LinkedList.h(165,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\LinkedList\LinkedList\LinkedList.h(162): message : во время компиляции функции-члена класс шаблон "void LinkedList<int>::add(int)"
+C:\Users\User\source\repos\LinkedList\LinkedList\Лаба 12.cpp(50): message : выполняется компиляция ссылки на экземпляр шаблон функции "void LinkedList<int>::add(int)"
+C:\Users\User\source\repos\LinkedList\LinkedList\Лаба 12.cpp(49): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "LinkedList<int>"
+  Создание кода...
+  LinkedList.vcxproj -> C:\Users\User\source\repos\LinkedList\x64\Debug\LinkedList.exe
